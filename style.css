@@ -1,0 +1,1271 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/*----------------------------------------------MENU BAR---------------------------------------------------------*/
+.menu
+{
+background: rgba(254, 254, 254, 0.9);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+height: 100px;
+text-align: center;
+}
+.menu img
+{
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.menu ul
+{
+    float: right;
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+.menu ul li
+{
+    display: inline;
+    
+    padding: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 25px;
+}
+.menu ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+
+/*---------------------------------------------SEARCH BOX STYLE CODE---------------------------------------------------------*/
+.searchBox
+{
+    float: right;
+    border-radius: 50px;
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding: 2px;
+    border: 2px;
+    border-style: solid;
+    border-color: #490F83
+}
+.searchTxt
+{
+    width: 90px;
+    line-height: 30px;
+    background-color: white;
+    text-align: center;
+    border: none;
+}
+.searchBtn
+{
+    float: right;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    line-height: 35px;
+    border-radius: 50px;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+.bar
+{
+    background-color: rgb(60, 9, 141);
+    width: 1349px;
+    height: 253px;
+    padding: 10px;
+}
+.bar1
+{
+    margin-left: 140px;
+    margin-top: 70px;
+}
+
+.bar1 h2, h3, p
+{
+    color: white;
+    font-family: sans-serif;
+}
+
+.bar2
+{
+    background-color: white;
+    height: 70px;
+    width: 400px;
+    margin-left: 900px;
+    margin-top: -100px;
+    border-radius: 5px;
+    text-align: center;
+}
+.bar2 p
+{
+    color: rgb(77, 2, 138);
+    line-height: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div2a
+{
+    
+    margin-left: 80px;
+    margin-top: 45px;
+}
+.div2b
+{
+    margin-left: 430px;
+    margin-top: -380px;
+}
+.div2b p
+{
+    font-family: Gothic A1;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    width: 684px;
+    height: 270px;
+    text-align: justify;
+
+}
+.div2b h2
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #490F83;
+}
+.div2c
+{
+    margin-left: 430px;
+    
+}
+.div2c ul
+{
+    text-decoration: none; 
+}
+.div2c ul li
+{
+    display: inline;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+.price
+{
+    
+    background: #F6F6F6;
+    border: 1px solid #F2F2F2;
+    width: 1349px;
+    height: 172px;
+    margin-top: 60px;
+}
+.price ul
+{
+    list-style: none;
+    margin-top: 40px;
+}
+.price ul li
+{
+    display: inline-block;
+    margin-left: 80px;
+}
+.price ul li .title
+{
+    font-family: Rambla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #490F83;
+}
+.price ul li p
+{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #4F4F4F;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.div3
+{
+    margin-top: 30px;
+}
+
+.div3 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+    float: left;
+    margin-left: 80px;
+}
+.div3a
+{
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 237px;
+    height: 42px;
+    float: left;
+    margin-left: 800px;
+}
+.div3a p
+{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #490F83;
+    margin-top: 20px;
+    margin-left: 79px;
+
+}
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4a
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4a .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4a .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4a .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4a .base
+{
+    margin-top: 10px;
+}
+
+.div4a .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4a .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+   
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.div4b
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4b .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4b .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4b .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4b .base
+{
+    margin-top: 10px;
+}
+
+.div4b .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4b .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4c
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4c .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4c .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4c .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4c .base
+{
+    margin-top: 10px;
+}
+
+.div4c .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4c .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4d
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4d .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4d .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4d .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4d .base
+{
+    margin-top: 10px;
+}
+
+.div4d .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4d .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4e
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4e .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4e .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4e .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4e .base
+{
+    margin-top: 10px;
+}
+
+.div4e .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4e .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4f
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4f .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4f .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4f .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4f .base
+{
+    margin-top: 10px;
+}
+
+.div4f .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4f .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+.div4g
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4g .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4g .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4g .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4g .base
+{
+    margin-top: 10px;
+}
+
+.div4g .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4g .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.div4h
+{
+    margin-left: 79px;
+    margin-top: 70px;
+    width: 350px;
+    height: 455px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    float: left;
+}
+.div4h .p1
+{
+    width: 177px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div4h .p2
+{
+    position: absolute;
+    width: 262px;
+    height: 36px;
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828282;
+}
+.div4h .fa
+{
+    color: #490F83;
+}
+.divfa
+{
+    
+    float: right;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+.divfa p
+{
+    font-family: Roboto;
+    font-style: normal;
+    color: #4F4F4F;
+   
+}
+.thinBar
+{
+    width: 250px;
+    height: 7px;
+    background: linear-gradient(90deg, rgba(73, 15, 131)50%, rgba(229, 228, 228)50%);
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.div4h .base
+{
+    margin-top: 10px;
+}
+
+.div4h .base span
+{
+    width: 52px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+.div4h .base p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+    display: inline;
+    margin-left: 20px;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+.div5
+{
+    margin-top: 1660px;
+    margin-left: 78px;
+ 
+}
+
+.div5 p
+{
+    position: relative;
+    width: 208px;
+    height: 29px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+    top: 14px;
+    
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.div6
+{
+    position: relative;
+    width: 136px;
+    height: 172px;
+    left: 85px;
+    top: 45px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    box-sizing: border-box;
+    float: left;
+    
+}
+.div6 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #4F4F4F;
+    margin-left: 10px
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.div7
+{
+    position: relative;
+    width: 136px;
+    height: 172px;
+    left: 85px;
+    top: 45px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 60px;
+}
+.div7 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #4F4F4F;
+    margin-left: 10px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+
+.div8
+{
+    position: relative;
+    width: 136px;
+    height: 172px;
+    left: 85px;
+    top: 45px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 60px;
+}
+.div8 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #4F4F4F;
+    margin-left: 10px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+
+.div9
+{
+    position: relative;
+    width: 136px;
+    height: 172px;
+    left: 85px;
+    top: 45px;
+    background: #FFFFFF;
+    border: 1px solid rgba(79, 79, 79, 0.4);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 60px;
+}
+.div9 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #4F4F4F;
+    margin-left: 10px;
+   
+}
+/*-------------------------------------------------------------------------------------------------------*/
+.div10
+{
+    position: absolute;
+    width: 1440px;
+    height: 156px;
+    left: 11px;
+    top: 3000px;
+    background: #FCFCFC;
+}
+
+.div10 .p1
+{
+    position: absolute;
+    width: 623px;
+    height: 38px;
+    left: 420px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #490F83;
+    line-height: 96px;
+}
+
+.div10 .p2
+{
+    position: absolute;
+    width: 243px;
+    height: 29px;
+    left: 615px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    line-height: 176px;
+    text-align: right;
+    
+    color: rgba(73, 15, 131, 0.7);
+}
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.blue
+{
+    width: 1440px;
+    height: 184px;
+    background: #490F83;
+    padding: 10px;
+    position: absolute;
+    top: 3160px;
+}
+.blue p
+{
+    width: 563px;
+    height: 43px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 170px;
+    margin-left: 150px;
+    color: #FEFEFE;
+}
+.blue .miniDiv
+{
+    width: 170px;
+    height: 45px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 43px;
+    text-align: center;
+    color: #490F83;
+    float: right;
+    margin-right: 220px;
+    margin-top: 20px;
+}
+.blue .miniDiv a
+{
+    text-decoration: none;
+    color: #490F83;
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+.black
+{
+    width: 1440px;
+    height: 493px;
+    background: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 3344px;
+}
+.black .first
+{
+    background-color: none;
+    width: 211px;
+    color: #FEF2F2;
+    float: right;
+    padding: 10px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-left: 30px; 
+}
+.black .first a
+{
+    text-decoration: none;
+    color: #FEF2F2;
+}
+
+.hr
+{
+    width: 1140px;
+    height: 2px;
+    margin-top: -120px;
+    margin-left: 110px;
+    position: absolute;
+    top: 3844px;
+}
+.copy
+{
+    color: white;
+    margin-top: 10px;
+    margin-left: 110px;
+    position: absolute;
+    top: 3744px;
+    
+
+
+
+
+/*-------------------------------------------------------------------------------------------------------*/
