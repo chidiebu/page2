@@ -1135,9 +1135,8 @@ text-align: center;
 .div10
 {
     position: absolute;
-    width: 1440px;
+    width: 1349px;
     height: 156px;
-    left: 11px;
     top: 3000px;
     background: #FCFCFC;
 }
@@ -1180,7 +1179,7 @@ text-align: center;
 
 .blue
 {
-    width: 1440px;
+    width: 1348px;
     height: 184px;
     background: #490F83;
     padding: 10px;
@@ -1224,7 +1223,7 @@ text-align: center;
 /*------------------------------------------------------------------------------------------------------------------------*/
 .black
 {
-    width: 1440px;
+    width: 1348px;
     height: 493px;
     background: rgba(0, 0, 0, 0.9);
     position: absolute;
@@ -1239,7 +1238,7 @@ text-align: center;
     padding: 10px;
     margin-right: 100px;
     margin-top: 40px;
-    margin-left: 30px; 
+    margin-left: 15px; 
 }
 .black .first a
 {
@@ -1252,7 +1251,7 @@ text-align: center;
     width: 1140px;
     height: 2px;
     margin-top: -120px;
-    margin-left: 110px;
+    margin-left: 70px;
     position: absolute;
     top: 3844px;
 }
@@ -1260,13 +1259,9 @@ text-align: center;
 {
     color: white;
     margin-top: 10px;
-    margin-left: 110px;
+    margin-left: 70px;
     position: absolute;
     top: 3744px;
 }
     
-
-
-
-
 /*-------------------------------------------------------------------------------------------------------*/
